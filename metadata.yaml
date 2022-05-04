@@ -1,0 +1,44 @@
+_repo: Uhkea-markiisi_67916
+_version: 0.0.1
+alternative_title: Bardelys the Magnificent. Finnish
+contributor:
+  translator:
+    agent_name: Kupiainen, Alpo
+    birthdate: 1888
+    deathdate: 1937
+    gutenberg_agent_id: '41954'
+    url: http://www.gutenberg.org/2009/agents/41954
+    wikipedia: https://fi.wikipedia.org/wiki/Alpo_Kupiainen
+creator:
+  author:
+    agent_name: Sabatini, Rafael
+    alias: Sabatini, R.
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '640'
+    url: http://www.gutenberg.org/2009/agents/640
+    wikipedia: https://en.wikipedia.org/wiki/Rafael_Sabatini
+description: ''
+gutenberg_issued: '2022-04-24'
+identifiers:
+  gutenberg: '67916'
+language: fi
+pgterms:marc905: 20220218014701sabatini
+pgterms:marc906: '1923'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: Finland :Arvi A. Karisto Oy,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Treasure troves -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Revenge -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'France -- History -- Louis XIII, 1610-1643 -- Fiction'
+- !lcsh 'Escapes -- Fiction'
+- !lcsh 'False imprisonment -- Fiction'
+- GITenberg
+title: Uhkea markiisi
+url: http://www.gutenberg.org/ebooks/67916
