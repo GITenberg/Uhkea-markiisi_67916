@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '41954'
     url: http://www.gutenberg.org/2009/agents/41954
     wikipedia: https://fi.wikipedia.org/wiki/Alpo_Kupiainen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sabatini, Rafael
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/640
     wikipedia: https://en.wikipedia.org/wiki/Rafael_Sabatini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67916#Uhkea-markiisi
 gutenberg_issued: '2022-04-24'
 identifiers:
   gutenberg: '67916'
